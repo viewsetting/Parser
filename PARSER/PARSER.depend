@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1542000984 source:d:\onedrive\cpp codes\parser\parser\main.cpp
+	<bits/stdc++.h>
+	"framework.h"
+
+1542000984 d:\onedrive\cpp codes\parser\parser\framework.h
+	<string>
+
+1501307546 source:d:\onedrive\cpp codes\parser\parser\animation.cpp
+	<iostream>
+	<cstdio>
+	<string>
+	<conio.h>
+	<windows.h>
+	"animation.h"
+	"framework.h"
+
+1501090039 d:\onedrive\cpp codes\parser\parser\animation.h
+	"windows.h"
+	<iostream>
+	<string>
+
+1542000687 source:d:\onedrive\cpp codes\parser\parser\framework.cpp
+	<iostream>
+	<string>
+	"framework.h"
+	<conio.h>
+	<windows.h>
+	"animation.h"
+	<cstdio>
+
